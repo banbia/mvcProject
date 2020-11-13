@@ -1,0 +1,11 @@
+#box {
+	width: 75%;
+	padding: 20px;
+	border: 1px solid #ccc;
+	background-color: #f2f2f2;
+	border-radius: 20px;
+	margin: auto;
+}
+#box h1 {
+	text-align: center;
+}
